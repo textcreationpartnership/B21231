@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dialogue upon dialogue, or, L'Estrange, no papist nor Jesuite, but the dog Towzer shewed in a short and plain dialogue betwixt Philo-Anglicus and Philo-L'Estrange.</title>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21231</idno><idno type="EEBO-CITATION">12895450</idno>
+  <idno type="VID">199725</idno>
+  <idno type="EEBO-PROQUEST">2240899853</idno>
+  
+            <idno type="STC">Wing D1370</idno>
+            <idno type="OCLC">12895450</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21231)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 199725)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 913:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dialogue upon dialogue, or, L'Estrange, no papist nor Jesuite, but the dog Towzer shewed in a short and plain dialogue betwixt Philo-Anglicus and Philo-L'Estrange.</title>
+                  <author>L'Estrange, Roger, Sir, 1616-1704.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term type="corporate_name">Jesuits --  Anecdotes</term>
+               <term type="topical_term">Religious satire, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:199725:1"/>
+            <head>DIALOGUE upon DIALOGUE: OR, L'ESTRANGE, No PAPIST nor JESUITE; BUT THE Dog TOWZER: Shewed in a short and plain DIALOGUE BETWIXT <hi>Philo-Anglicus</hi> and <hi>Philo-L'Estrange.</hi>
+            </head>
+            <q>Improbis ipsa nequitia Supplicium.</q>
+            <sp>
+               <speaker>Phi. Ang.</speaker>
+               <p>HOW, now Name-sake, what's become of <hi>Towzer?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phi. Le.</speaker>
+               <p>What <hi>Towzer</hi> mean you, Sir? there are many Doggs of the Name, sir.</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Ang.</speaker>
+               <p>I mean the <hi>Goliah Towzer,</hi> and the <hi>Diana Towzer,</hi> or because you seem'd to like it in your discourse with <hi>Pragmaticus</hi> the other day, the <hi>Gogmagog Towzer,</hi> that once so rouz'd and towz'd the Nation with his <hi>Pen,</hi> both City and Country, whorrying all sorts of People, and after whom the Hue and Cr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> went, that he might be taken and Collerd up.</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Le.</speaker>
+               <p>O Sir, if that be the <hi>Towzer</hi> you mean, 'tis he that broke his Halter in Effigie, and whom the Devil lash'd out of the Parliaments way, whilst the cunning Je<g ref="char:EOLhyphen"/>suites look'd on, with Trouble to see their poor Bandog forc'd to hide his Head. But if I did know where he was, I should not tell you; it may be he is gone to <hi>Scotland</hi> for his friend H.B. had a Letter from Him the other day.</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Ang.</speaker>
+               <p>No, no, he is, I believe nearer home, and begins again to groule, and foist secret and seditious Pamplets, as he was wont, <hi>incognito,</hi> since the Dissolution of the Parliament. But since he is no Papist, nor Jesuite, as you most learnedly have made <hi>Pragmaticus</hi> believe, why don't he appear as he was wont?</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Le.</speaker>
+               <p>He wont appear for reasons best known to himself. It is not for fear of such Fellows as you. But I hope yet to see <hi>Towzer</hi> Tryumphant: the day is coming, that he will appear in splendor, with a Whip at his Tayl, and a Bell about his Neck, and then you shall see your poor sneaking Currs will run away with their Tayls between their Legs.</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Ang.</speaker>
+               <p>Oh! Oh! that is when <hi>Mack</hi> enters with the Popes Procession. When his Holiness his great Toe shall be enshrined in St. <hi>Pauls</hi> Church, and <hi>Te Deum</hi> sung at the first saying of Mass in St. <hi>Peters.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phi. Le.</speaker>
+               <p>For all I have so rationally convinc'd <hi>Pragmaticus,</hi> that he is no Papist nor Jesuite, I see you still believe him one.</p>
+            </sp>
+            <pb n="2" facs="tcp:199725:2"/>
+            <sp>
+               <speaker>Phi. Ang.</speaker>
+               <p>If I don't believe him one, there are many thousands that do: but as for my own thoughts I may keep them to my self.</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Le.</speaker>
+               <p>Do you think then that <hi>Towzer</hi> is of no Religion? what dare you believe that he is no Protestant? and not a better Protestant than the Peer that made the Speech<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>ô homines! ô morer!</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phi. Ang.</speaker>
+               <p>Shall I tell you what I think? for since you say, I dare not think him a Papist, neither Barefac'd, nor in Masquerade, then I will think him a Luke-warm Protestant.</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Le.</speaker>
+               <p>A Luke-warm Protestant: what is that?</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Ang.</speaker>
+               <p>Why it is such an one as at this time ought to be Spew'd out, 'tis such an one that would conjoyn the Mass and the Common Prayer, it is such an one that would Entail the Crown to a Popish Successor, such an one, that under the name of a Protestant would fain Crush to pieces all Dissenters: Such an one who would fain see Arbitrary Government florish in <hi>England,</hi> and that almost hates the name of a Parliament: That endeavours to promote a Faction, and to set up the Image of <hi>Ne<g ref="char:EOLhyphen"/>buchadnezar,</hi> and to make all men to fall down and worship it; one that ralls at Peti<g ref="char:EOLhyphen"/>tioning and scoffs at all appearance of Goodness and Sobriety.</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Le.</speaker>
+               <p>Hold, hold, you'l be out of Breath anon. Can <hi>Towzer</hi> be all this and no Papist?</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Ang.</speaker>
+               <p>Yes, yes, he is a reeling Protestant, only reeling towards Popery, but when the Altar is set up he'l fall flat before it.</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Le.</speaker>
+               <p>But <hi>Towzer</hi> says, he is a true sincere Protestant, one of the Church of <hi>England,</hi> a reformed Papist, and ought not I to believe him? Sure he best knows his own Religion.</p>
+            </sp>
+            <sp>
+               <speaker>Phi Ang.</speaker>
+               <p>You may believe him if you please, but so long as he Barks <hi>Romish,</hi> I can<g ref="char:EOLhyphen"/>not but think, with many others, that he Eats of the Popes Bread, and if he be not of the Popes Religion, he is so much the worse to defile his own Protestant Nest; and to tear it almost to pieces with his Scratching Claws. A Tree is known by its Fruit, and we judge only of <hi>Towzer</hi> by his Barking, which is almost plain down Romish. Has he not whor<g ref="char:EOLhyphen"/>ried all the World besides: and has he not fawn'd and gloz'd on the very Plotters themselves, and their Adherents? has he not generally given occasion of Offence? I say, if he be not a Papist, he is then a very unlucky <hi>Towzer,</hi> that has set the whole Troop of the little Currs of the Parish a Barking at him.</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Le.</speaker>
+               <p>Poor <hi>Towzer!</hi> I see there is no pitty among you: methinks you should not run a Dog down, that is under Affliction.</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Ang.</speaker>
+               <p>Affliction, he says, is the way to promotion: no doubt but he has gene<g ref="char:EOLhyphen"/>rous Masters, that can and will pay him well for his Sufferings. We find he is the same <hi>Towzer</hi> still, and the Nation is so well acquainted with his Barking that they know his Voyce, tho they cannot see the Ban-dog.</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Le.</speaker>
+               <p>He has a loud Voyce if you can hear him out of <hi>Scotland.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phi. Ang.</speaker>
+               <p>He has a roaring Voice, that has been heard through the 3 Nations; and of late we have heard some of his new <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>amphletical Howlings and Growlings since the Dissolution of the Parliament. Besides there is one <hi>Trinculo,</hi> a great knawer of Popish Bones, that used to Bark much against Petitioning, and Sir <hi>William Waller,</hi> now newly employd to send about and spread all the Seditious and Libellous Barkings of <hi>Towzer</hi> and others.</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Le.</speaker>
+               <p>Who is this Dog <hi>Trinculo?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phi. Ang.</speaker>
+               <p>One that formerly hated <hi>Towzer,</hi> but now the Cause the blessed Cause, and the Popish Faction, the new Protestant Religion, the Luke-warm Masquerading Church-men have untied <hi>Towzer</hi> and <hi>Trinculo:</hi> And <hi>Towzer</hi> is a very honest Prote<g ref="char:EOLhyphen"/>stant Cur with <hi>Trinculo.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phi. Le.</speaker>
+               <p>Where dwells this barking <hi>Trinculo?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phi. Ang.</speaker>
+               <p>At the sign of the Popes printing Press, with a Kite made of the Cities Petition flying over it.</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Le.</speaker>
+               <p>Oh I know him now, he has been a sleep ever since the Parliament began, as if he had took <hi>Opium.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phi. Ang.</speaker>
+               <p>'Twas mear Dog sleep: but now he begins again to Bark and is become <hi>Towzers, Machs,</hi> and the Popes Setting Dog.</p>
+            </sp>
+            <pb n="3" facs="tcp:199725:2"/>
+            <sp>
+               <speaker>Phi. Le.</speaker>
+               <p>I see there is no dealing with you, you are far worse than <hi>Pragmaticus:</hi> but for all your Malice to <hi>Towzer,</hi> I say, I can prove he is no papist and no Jesuite.</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Ang.</speaker>
+               <p>With the same learned Arguments that you used to <hi>Pragmaticus?</hi> Such convincing and knock-down Arguments? But they wont down with me.</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Le.</speaker>
+               <p>Nay, I will use others if you please to hear them, and just such pithy ones as Pragmaticus used to prove <hi>Towzer</hi> a Bapist and Jesuice.</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Ang.</speaker>
+               <p>I know you are good at building Houses with Cards, and then blowing them down again; at raising of Airy Giants, and then laying them on their backs; you learn'd this Conjuring trick of <hi>Towzer,</hi> 'twas one of his Master-pieces. But let us hear you. As for his being a Jesuite you may spare your pains. Though a Married Priest and Jesuite may be Dispensed with, witness <hi>L. C. M.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phi. Le.</speaker>
+               <p>Well then, I say <hi>Towzer</hi> is no Papist because he says so himself, and you ought to believe him.</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Ang.</speaker>
+               <p>Belief is an Art I am not Master of, unless convinced by Reason or De<g ref="char:EOLhyphen"/>monstration, both which has made me believe other ways, and many Thousands beside.</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Le.</speaker>
+               <p>Nay, if nothing else will serve your turn, I <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> done wi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> you. But stay, I say then <hi>Towzer</hi> is no Papist, because his own Conscience tells him so; what say you to that?</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Ang.</speaker>
+               <p>There is something in that indeed. But he has described so many strange sort of Consciences, that I believe he knows not his own, and besides I have but his word for it; and he may have a lying Conscience for ought I know.</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Le.</speaker>
+               <p>Nay, If you won't believe Conscience, I know not what to say to you; for that ought to be believed before Oaths or Proofs, be they never so plain. But I have another Knock down Argument for you, and that must make you of my Mind.</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Ang.</speaker>
+               <p>What's that?</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Le.</speaker>
+               <p>Wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Towzer</hi> has often Bark'd against the Papists, and is a pretended Ab<g ref="char:EOLhyphen"/>horrer of them, as well as of the Fanaticks, therefore he can't be a Papist.</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Ang.</speaker>
+               <p>Ha! ha! he! You have knockt me down indeed. There's many a Je<g ref="char:EOLhyphen"/>suite has done the same; They can rail at their Friends, praise their Enemies, hug those they intend to stab, drink with you and cut your Throat, as well as being Priests, wear Perrukes, Swords, and swear <hi>God Damn me,</hi> — O! there's more than all this done for the Cause.</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Le.</speaker>
+               <p>But one Argument more and the Devil go with you, if you are not convinc'd. <hi>Towzer</hi> has been always Loyal to his King, and therefore no Papist.</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Ang.</speaker>
+               <p>
+                  <hi>Towzer</hi> says so, but there is a question if one can be at once faithful to the D. and Loyal to the K? But have a care what you say, the Papists will take it un<g ref="char:EOLhyphen"/>kindly to hear you say a Papist can't be Loyal. I hope the D. is very Loyal, as well as <hi>Towzer,</hi> and yet he is a Papist, what say you now?</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Le.</speaker>
+               <p>Well to satisfie you and all the World, if you please, <hi>Towzer</hi> shall swear he is no Papist, and take any Oath or Test you shall give him.</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Ang.</speaker>
+               <p>That won't do: none of those Bones will choak a Papist; alas they can swallow them as easily as a J<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gler a Knife or a Cup. They have cunning evading Tricks an Oath Legerdemain you are not acquainted with; nay, they can Die with these Oaths in their mouths, and go to Heaven immediately.</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Le.</speaker>
+               <p>I see you are an hard foul-mouth'd Beast, such an one as <hi>Towzer</hi> inveighs against, that will believe nothing.</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Ang.</speaker>
+               <p>Give me but one Argument, in which I can find but any thing of sence or reason, and he believe you.</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Le.</speaker>
+               <p>Why Logically thus: <hi>Towzer</hi> is no Christian, but every Papist is a Chri<g ref="char:EOLhyphen"/>stian; <hi>ergo, Towzer</hi> is no Papist.</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Ang.</speaker>
+               <p>By the <hi>French</hi> Kings Garlick eaters, this smells strong of Reason, and here's my hand on't; I'le never call <hi>Towzer</hi> a Papist Dog any more, but plain unchri<g ref="char:EOLhyphen"/>stian <hi>Towzer.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phi. Le.</speaker>
+               <p>I am glad I have converted you, I never Dialogued any body in my life, but I convinc'd them at last: poor <hi>Pragmaticus</hi> went away the other day as well satisfied as could be, and no doubt but with my Arguments he will convince the whole Nation, at least the better and more learned sort, that poor <hi>Towzer</hi> is no Papist.</p>
+            </sp>
+            <pb n="4" facs="tcp:199725:3"/>
+            <sp>
+               <speaker>Phi. Ang.</speaker>
+               <p>But to satisfie my Conscience, and the more to confirm me in this O<g ref="char:EOLhyphen"/>pinion, that <hi>Towzer</hi> is no Papist, but a plain Pagan <hi>Towzer,</hi> let me ask you some few Questions.</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Le.</speaker>
+               <p>Ask what you please, I shall endeavour to satisfie you.</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Angl.</speaker>
+               <p>Why does <hi>Towzer</hi> still endeavour to turn all the Papists Plots into <hi>ri<g ref="char:EOLhyphen"/>dicule?</hi> and why did you (for you are his Scholar and speak his words) after your drolling with <hi>Pragmaticus,</hi> say, perhaps, some of those bloody things might be true? <hi>per<g ref="char:EOLhyphen"/>haps</hi> — t'was an ugly word, and look'd like a Papist.</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Le.</speaker>
+               <p>Why, wont you give a Fidler leave to use his Fidle-stick? <hi>Touzer</hi> is so us'd to droll and jest in all he says, that he can't forbear: 'tis only his Humour; but, he made amends, and granted <hi>Pragmaticus,</hi> the Papists might be all what he charg'd them with, and the Authors also of the last great Plague in <hi>London.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phil. Angl.</speaker>
+               <p>There was a Jest: but, Let me tell you, Tho they were not Authors of the Plague, they have been of a worse to the whole Kingdom since that, by their damna<g ref="char:EOLhyphen"/>ble Conspiracy.</p>
+            </sp>
+            <sp>
+               <speaker>Ph. Le.</speaker>
+               <p>I grant you that, but still <hi>Towzer</hi> is no Papist, tho he laughs at all those Plots after his way.</p>
+            </sp>
+            <sp>
+               <speaker>Ph. Ang.</speaker>
+               <p>Nay, if it be only his humour: 'tis well enough. But how shall I know that Papists are Christians?</p>
+            </sp>
+            <sp>
+               <speaker>Phi. Le.</speaker>
+               <p>Because we were Reformed from them, and because they are full of Boyls, Sores, and blaines of Errors and Abuses; and are not <hi>Towzers</hi> nor Cats, nor Wolves, Dragons, nor fiery Serpents.</p>
+            </sp>
+            <sp>
+               <speaker>Phil. Angl.</speaker>
+               <p>Very good, They are not those Creatures in <hi>specie,</hi> but all those, and far worse <hi>allegorically,</hi> as many poor Christians in most Countries can testify, and thousands of harmless <hi>Indians</hi> in <hi>America.</hi> They are <hi>Christians,</hi> I grant you, <hi>in nomine,</hi> but, in <hi>practice</hi> as far from the Apostles, as the Pope is from St. <hi>Peter,</hi> or the distance of Hea<g ref="char:EOLhyphen"/>ven from Earth. Therefore, if <hi>Towzer</hi> be not a Papist <hi>in nomine,</hi> by name, is he not one by Nature, or <hi>Allegorically?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phi. Le.</speaker>
+               <p>Nay, nay, if you run to Allegories, i'le leave you: I have nothing to say to Allegories. I say, the Church of <hi>Rome</hi> is Christian, 'tis no matter how: and I have prov'd it. And, that <hi>Towzer</hi> is no Papist-Christian, but <hi>Touzer,</hi> grinning, snarling, snap<g ref="char:EOLhyphen"/>ling, railing, and dialoguing <hi>Towzer,</hi> with a whip and a bell, with which he will lash shortly this brazen fac'd Age, this impudent Age in which we live.</p>
+            </sp>
+            <sp>
+               <speaker>Phil. Ang.</speaker>
+               <p>Well, be not angry name-sake <hi>Philo:</hi> I am convinc'd, that <hi>Towzer</hi> is still <hi>Towzer,</hi> and so farewell.</p>
+            </sp>
+            <q>
+               <l>
+                  <hi>When Popes in</hi> England <hi>shall Successors shite,</hi>
+               </l>
+               <l>
+                  <hi>Sir</hi> Crack-Fart Towzer <hi>will be made a Knight.</hi>
+               </l>
+            </q>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>H.B.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
